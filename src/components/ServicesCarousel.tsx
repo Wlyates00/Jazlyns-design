@@ -22,7 +22,6 @@ export default function ServicesSection() {
       const updateDimensions = () => {
          if (scrollRef.current && cardRef.current) {
             const containerWidth = scrollRef.current.clientWidth;
-            const cardStyle = window.getComputedStyle(cardRef.current);
             const width = cardRef.current.offsetWidth;
             const count = Math.floor(containerWidth / width);
 
