@@ -11,7 +11,7 @@ export default function Navbar() {
             {/* Logo */}
             <Link to="/">
                <div className="flex flex-row items-center">
-                  <img src="/public/Logo.jpg" alt="logo" className="max-w-24" />
+                  <img src="/Logo.jpg" alt="logo" className="max-w-24" />
                   <div className="text-xl font-semibold font-georgian mt-2">
                      Jazlyn's Design LLC
                   </div>
