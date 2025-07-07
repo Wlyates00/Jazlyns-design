@@ -6,26 +6,6 @@ const testimonials = [
       name: "Bill D.",
       text: "When I was temporarily disabled and moving into a new place, it was overwhelming. Jazlyn came into my life and turned a simple apartment into a beautiful home. She's extremely talented, polite, and professional. I cannot express how grateful I am to have had her work with me. I give her the highest recommendation and encourage anyone to please use her if you need any interior decorating.",
    },
-   {
-      name: "PLACEHOLDER",
-      text: "I was struggling to make my new space feel like home, but Jazlyn's guidance completely transformed it. Her ability to understand my style and make it functional was incredible. Every room now feels warm, welcoming, and uniquely mine.",
-   },
-   {
-      name: "PLACEHOLDER",
-      text: "From the first meeting to the final touches, the process was seamless. Jazlyn brought my vision to life better than I imagined. Her professionalism and creativity made the experience truly enjoyable. I’m so happy with how everything turned out.",
-   },
-   {
-      name: "PLACEHOLDER",
-      text: "Working with Jazlyn was an absolute joy. She took the time to understand what I wanted and delivered results that exceeded expectations. My home has never felt more 'me.' Her attention to detail is unmatched.",
-   },
-   {
-      name: "PLACEHOLDER",
-      text: "I had no idea how much a well-designed space could impact my day-to-day life. Jazlyn's work not only improved the look of my home but how I feel in it. I can’t thank her enough for what she’s done.",
-   },
-   {
-      name: "PLACEHOLDER",
-      text: "Jazlyn turned what felt like a cold and impersonal apartment into a space that feels peaceful and warm. Her ability to mix functionality with beauty is rare. I recommend her to anyone looking to love their space again.",
-   },
 ];
 
 export default function TestimonialCarousel() {
