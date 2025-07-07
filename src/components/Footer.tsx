@@ -11,7 +11,7 @@ export default function Footer() {
                   <p className="text-xl font-semibold text-center sm:text-left font-playfair">
                      Jazlyn's Design LLC
                   </p>
-                  <Link to="/contact">
+                  <Link to="/contact" className="w-full flex justify-center">
                      <button className="bg-violet-200 max-w-42 rounded-md px-4 py-2 font-medium font-georgian hover:bg-violet-100 transition">
                         Contact Now
                      </button>
