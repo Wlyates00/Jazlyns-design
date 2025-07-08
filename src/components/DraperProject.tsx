@@ -12,6 +12,13 @@ export default function DraperProject() {
             "/projects/draper/Draper4.jpg",
             "/projects/draper/Draper5.jpg",
             "/projects/draper/Draper6.jpg",
+            "/projects/draper/Draper7.jpg",
+            "/projects/draper/Draper8.jpg",
+            "/projects/draper/Draper9.jpg",
+            "/projects/draper/Draper10.jpg",
+            "/projects/draper/Draper11.jpg",
+            "/projects/draper/Draper13.jpg",
+            "/projects/draper/Draper14.jpg",
          ]}
       />
    );
